@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="http://mosh.hitthefloor.com/wp-content/uploads/sites/8/2016/11/hhd-1.png" type="image/gif" sizes="16x16">
+    <meta charset="UTF-8">
+    <style>
+    table, th, td {
+    border: 1px solid black;
+    }
+    table#t01 {
+    width: 50%;    
+    background-color: #f1f1c1;
+    }   
+</style>
+    <title>Band Fan Site!</title>
+</head>
+<body>
+
+    <h1>Blink 182 Fan Page!</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Blink182.jpg" alt="Blink 182" style="width:500px; height:400px;">
+
+    <h2>Bio</h2>
+    <p>Blink 182 started from a small garage and turned into one of the greatest bands of our generation.  They transformed the alternative scene forever.</p>
+    <img src="https://media.giphy.com/media/yrCF4o5XhRryg/giphy.gif" alt="Blink182">
+
+    <h2>Members</h2>
+    <ul>
+        <li>Mark Hoppus</li>
+        <li>Tom DeLonge</li>
+        <li>Travis Barker</li>
+        <li>Scott Raynor</li>
+    </ul>
+
+    <h2>My Favorite Song</h2>
+    <iframe width="420" height="315"
+    src="https://www.youtube.com/embed/hNVDSLHii7g">
+    </iframe>
+
+
+    <br>
+    <br>
+<table>
+<table id="t01">
+  <tr>
+    <th>Cool Sites</th>
+    <th>Reason to Click</th>
+  </tr>
+  <tr>
+    <td><a href="http://www.blink182.com/" target="_blank">Blink 182</a></td>
+    <td><strong>OFFICIAL</strong> site, latest news</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.facebook.com/blink182/" target="_blank">Facebook Page</td>
+    <td>You can add them as a friend</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.rollingstone.com/music/artists/blink-182/news" target="_blank">Rolling Stones 182 News</a></td>
+    <td>Latest news from the Rolling Stones Magazine</td>
+</table>
+    
+</body>
+</html>
